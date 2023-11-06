@@ -2,6 +2,8 @@
 
 A simple web application for managing and viewing photo galleries.
 
+## [Live Site!!](https://ollyo-gallery-jayed.netlify.app/)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -67,4 +69,4 @@ Feel free to contribute to this project by submitting pull requests or raising i
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/jayeeed/Ollyo-Gallery/blob/main/LICENSE) file for details.
